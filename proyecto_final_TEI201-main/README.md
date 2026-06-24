@@ -1,19 +1,18 @@
 ### Información del Equipo
 - **Integrantes:**
-  - Nombre 1 - Rol 1
-  - Nombre 2 - Rol 2
-  - Nombre 3 - Rol 3
-  - Nombre 4 - Rol 4
+  - Martin Guerrero - Diseñador
+  - Artuo Luks - Investigador
+  - Lukas Vallejos - Diseñador
   
-- **ODS Seleccionado:** [Número y nombre]
-- **Problema a resolver:** [Descripción breve]
+- **ODS Seleccionado:** [3 Salud y Bienestar]
+- **Problema a resolver:** [La problematica de la baja calidad del aire en mineras cerradas]
 
 ### Descripción del Proyecto
 [Breve descripción de la solución IoT propuesta]
 
 ### Estado del Proyecto
 - **Versión actual:** v3.0
-- **Última actualización:** [Fecha]
+- **Última actualización:** [24/6/26]
 - **Estado:** Prototipo final
 
 ---
@@ -33,9 +32,9 @@
 ##  Inicio Rápido
 
 ### Requisitos Previos
-- Arduino IDE 2.x
+- Arduino IDE 2.3.10
 - Fusion 360
-- [Otras herramientas necesarias]
+- [ThingSpeak]
 
 ### Instalación
 1. Clonar el repositorio
